@@ -18,8 +18,6 @@
 
 This repository contains a Landing Page built with Angular 17 using SSR mechanism.
 
-[![project][PROJECT__BADGE]][PROJECT__URL]
-
 <h2 id="started">🚀 Getting started</h2>
 
 Here you describe how to run your project locally
